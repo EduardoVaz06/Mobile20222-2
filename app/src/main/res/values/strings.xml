@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mobile20222-1</string>
+    <string name="naforcaodio">Quando o profe chora e a mãe não vê (só os alunos)</string>
+    <string name="login">Login Usuário</string>
+    <string name="password">Senha Usuário</string>
+    <string name="logar">Entrar na App</string>
+    <string name="userpassinvalid">"Usuário ou senha inválido"</string>
+</resources>
